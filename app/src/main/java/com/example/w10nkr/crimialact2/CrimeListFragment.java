@@ -13,7 +13,7 @@ public class CrimeListFragment extends Fragment {
     private RecyclerView mCrimeRecyclerView;
     //recycle view use to display images
     private CrimeAdapter mAdapter;
-    //need the adapter, to get the item from the memory
+    //before display item need the adapter, to get the item from the memory
 
 
     @Override
